@@ -19,4 +19,4 @@ Follow this step for use VPS Google Collabs
 
 Have a good study
 
-<h3>use this tutorial wisely<h3>
+<h3>##USE THIS TUTORIAL WISELY##<h3>
