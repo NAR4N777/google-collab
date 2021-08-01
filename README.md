@@ -18,3 +18,5 @@ Follow this step for use VPS Google Collabs
   8. remote your VPS with putty/terminal/iTerm with host, user, password & port from google collabs console.
 
 Have a good study
+
+<h3>use this tutorial wisely<h3>
