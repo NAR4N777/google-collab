@@ -1,5 +1,3 @@
-# google-collab
-
 <h1>! THIS SCRIPT ONLY FOR EDUCATION</h1>
 Please use this script wisely so it can be used forever.
 
